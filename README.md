@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+
+I'm sh0u.  
+I have been developing games using Unity as an individual.  
+Nice to meet you :)  
+
+![Twitter Follow](https://img.shields.io/twitter/follow/sh0ou?style=social)
 
 <!--
 **sh0ou/sh0ou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
