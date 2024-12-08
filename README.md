@@ -9,6 +9,6 @@ Nice to meet you :)
 
 # Repos Info
 
-For copyright reasons, we do not disclose the contents of all repositories.<br/>
+For copyright reasons, we do not disclose the contents of some repositories.<br/>
 If you wish to receive the source code, please contact us via e-mail address.
 &#99;&#111;&#110;&#116;&#97;&#99;&#116;&#64;&#115;&#104;&#48;&#117;&#46;&#106;&#112;
